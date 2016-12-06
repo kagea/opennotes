@@ -1,0 +1,2 @@
+baseurl: /opennotes
+exclude: ['README.md']
