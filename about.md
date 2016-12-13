@@ -23,7 +23,7 @@ get-adcomputer -filter * | sort-object -Name
 
 ```python
 #!/usr/bin/env python
-__author__ = 'Hendrik Brocke'
+__author__ = 'me'
 
 import sys
 from PySide.QtCore import *
