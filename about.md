@@ -62,3 +62,6 @@ app.exec_()
 ```
 
 This is a test 2
+
+Test a link
+[testlink]({{ site.baseurl }}/test/).
