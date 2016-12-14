@@ -18,7 +18,7 @@ A place to include any other types of information that you'd like to include abo
 ### Some test of code highlighting
 
 ```powershell
-get-adcomputer -filter * | sort-object -Name
+Get-AdComputer -Filter * | Sort-Object -Name
 ```
 
 ```python
